@@ -1,4 +1,4 @@
-# 💰 Python Expense Tracker
+## 💰 Python Expense Tracker
 
 A simple command-line Expense Tracker built using Python as part of the **DecodeLabs Python Programming Internship (Week 1 - Project 2)**.
 
